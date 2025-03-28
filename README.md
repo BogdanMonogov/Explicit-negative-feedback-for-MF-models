@@ -1,7 +1,7 @@
 # Explicit-negative-feedback-for-MF-models
 Project on implementing negative feedback in the MF models
 
-The implementation of the negative feedback (implicit and explicit) has bee proven to increase the performance metrics and the quality of the recommender systems. That's why the following project has a big importance and relevancy, as well as high potential for the future refining and improvements. The repository has 2 datasets with the explicit feedback (Amazon Toys & Games and Movielens 1 M datatsets) and the main file with code (**CODE.ipynb**) with the code for all the proposed models and preprocessing techniques. 
+The implementation of the negative feedback (implicit and explicit) has bee proven to increase the performance metrics and the quality of the recommender systems. That's why the following project has a big importance and relevancy, as well as high potential for the future refining and improvements. The repository has 2 datasets with the explicit feedback (Amazon Toys & Games (https://cseweb.ucsd.edu/~jmcauley/datasets/amazon/links.html) and Movielens 1 M datatsets(https://grouplens.org/datasets/movielens/1m/)) and the main file with code (**CODE.ipynb**) with the code for all the proposed models and preprocessing techniques. 
 
 In the course of work, 3 preprocesssing approaches as well as 3 models were implemented and tested.
 
